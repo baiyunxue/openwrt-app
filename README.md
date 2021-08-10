@@ -4,7 +4,6 @@
 
 用法：
 
-`
-git clone https://github.com/baiyunxue/openwrt-app.git package/diy
-
-`
+ `
+ git clone https://github.com/baiyunxue/openwrt-app.git package/diy
+ `
