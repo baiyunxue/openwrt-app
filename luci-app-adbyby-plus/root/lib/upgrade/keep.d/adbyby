@@ -1,0 +1,6 @@
+/usr/share/adbyby/filerdomain.conf
+/usr/share/adbyby/blockdomain.conf
+/usr/share/adbyby/blockip.conf
+/usr/share/adbyby/bypassdomain.conf
+/usr/share/adbyby/customized.txt
+/usr/share/adbyby/dnsmasq.adblock
